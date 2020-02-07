@@ -18,7 +18,7 @@ def solution_1(slice_numbers, max_slices):
 
 if __name__ == '__main__':
 	datasets = ['a_example.in', 'b_small.in', 'c_medium.in', 'd_quite_big.in', 'e_also_big.in']
-	dataset = datasets[0]
+	dataset = "datasets/" + datasets[0]
 	max_slices, slice_numbers = read_data(dataset)
 	print(max_slices)
 	print(slice_numbers)
