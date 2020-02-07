@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # Pycharm
-# .idea/
+.idea/
 
 .DS_Store
