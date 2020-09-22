@@ -1,5 +1,7 @@
 # Pizza Problem
-Example:
+From Google hash code 2020 competition.
+
+### Example
 ```
 python main.py -d=a_example -m=recursive_fill_in
 ```
