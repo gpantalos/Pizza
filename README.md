@@ -1,5 +1,5 @@
 # Pizza Problem
-From Google hash code 2020 competition.
+From [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode/) 2020 competition.
 
 ### Example
 ```
