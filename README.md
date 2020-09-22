@@ -1,5 +1,5 @@
 # Pizza Problem
-Usage:
+Example:
 ```
 python main.py -d=a_example -m=recursive_fill_in
 ```
